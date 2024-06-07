@@ -1,0 +1,51 @@
+name: Generate Raycast MonkeyType theme
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Download MonkeyType theme json
+      run: |
+        curl -o monkeytype-theme.json https://raw.githubusercontent.com/monkeytype-hub/monkeytype-readme/master/monkeytype-data/themes.json
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run raycast-monkeytype-theme.py
+      run: python raycast-monkeytype-theme.py
+
+    - name: Configure git
+      run: |
+        git config --global user.name github-actions
+        git config --global user.email github-actions[bot]@users.noreply.github.com
+
+    - name: Commit and push changes
+      run: |
+        if git diff-index --quiet HEAD --; then
+          echo "No changes detected."
+        else
+          git add .
+          git commit -m "chore: update raycast monkeytype theme"
+        fi
+      continue-on-error: true
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: main
+        github_token: ${{ secrets.GITHUB_TOKEN }}
