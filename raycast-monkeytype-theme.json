@@ -2086,5 +2086,29 @@
         },
         "ray.so.url": "https://themes.ray.so?version=1&name=Discord&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23313338,%23313338,%23565861,%235a65ea,%232b2d31,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
         "ray.so.add.url": "https://themes.ray.so?version=1&name=Discord&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23313338,%23313338,%23565861,%235a65ea,%232b2d31,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
+        "name": "Cy Red",
+        "appearance": "dark",
+        "colors": {
+            "background": "#6e2626",
+            "text": "#ff6060",
+            "selection": "#e55050",
+            "loader": "#3f1616"
+        },
+        "ray.so.url": "https://themes.ray.so?version=1&name=Cy%20Red&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%236e2626,%236e2626,%23ff6060,%23e55050,%233f1616,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.url": "https://themes.ray.so?version=1&name=Cy%20Red&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%236e2626,%236e2626,%23ff6060,%23e55050,%233f1616,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
+        "name": "Floret",
+        "appearance": "dark",
+        "colors": {
+            "background": "#00272c",
+            "text": "#779097",
+            "selection": "#ffdd6d",
+            "loader": "#173033"
+        },
+        "ray.so.url": "https://themes.ray.so?version=1&name=Floret&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300272c,%2300272c,%23779097,%23ffdd6d,%23173033,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.url": "https://themes.ray.so?version=1&name=Floret&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300272c,%2300272c,%23779097,%23ffdd6d,%23173033,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     }
 ]
