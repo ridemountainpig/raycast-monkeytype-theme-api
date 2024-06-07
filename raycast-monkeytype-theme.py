@@ -47,8 +47,7 @@ def generate_raycast_monkeytype_theme():
     themes = get_monkeytype_theme()
     raycast_monkeytype_theme = []
     for theme in themes:
-        color_string = f"{theme['bgColor']},{theme['bgColor']},{theme['subColor']},{theme['mainColor']},{
-            theme['subAltColor']},%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3"
+        color_string = f"{theme['bgColor']},{theme['bgColor']},{theme['subColor']},{theme['mainColor']},{theme['subAltColor']},%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3"
         raycast_theme = {}
         raycast_theme['name'] = theme['name'].split('_')
         for i in range(len(raycast_theme['name'])):
@@ -61,10 +60,8 @@ def generate_raycast_monkeytype_theme():
             'selection': theme['mainColor'],
             'loader': theme['subAltColor'],
         }
-        raycast_theme['ray.so.url'] = f"https://themes.ray.so?version=1&name={raycast_theme['name'].replace(
-            ' ', '%20')}&author=Yen%20Cheng&authorUsername=ridemountainpig&colors={color_string.replace('#', '%23')}&appearance={raycast_theme['appearance']}"
-        raycast_theme['ray.so.add.url'] = f"{
-            raycast_theme['ray.so.url']}&addToRaycast"
+        raycast_theme['ray.so.url'] = f"https://themes.ray.so?version=1&name={raycast_theme['name'].replace(' ', '%20')}&author=Yen%20Cheng&authorUsername=ridemountainpig&colors={color_string.replace('#', '%23')}&appearance={raycast_theme['appearance']}"
+        raycast_theme['ray.so.add.url'] = f"{raycast_theme['ray.so.url']}&addToRaycast"
         raycast_monkeytype_theme.append(raycast_theme)
 
     with open('raycast-monkeytype-theme.json', 'w') as f:
