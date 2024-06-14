@@ -60,8 +60,12 @@ def generate_raycast_monkeytype_theme():
             'selection': theme['mainColor'],
             'loader': theme['subAltColor'],
         }
-        raycast_theme['ray.so.url'] = f"https://themes.ray.so?version=1&name={raycast_theme['name'].replace(' ', '%20')}&author=Yen%20Cheng&authorUsername=ridemountainpig&colors={color_string.replace('#', '%23')}&appearance={raycast_theme['appearance']}"
-        raycast_theme['ray.so.add.url'] = f"{raycast_theme['ray.so.url']}&addToRaycast"
+
+        theme_url = f"https://themes.ray.so?version=1&name={raycast_theme['name'].replace(' ', '%20')}&author=Yen%20Cheng&authorUsername=ridemountainpig&colors={color_string.replace('#', '%23')}"
+        raycast_theme['ray.so.light.url'] = f"{theme_url}&appearance=light"
+        raycast_theme['ray.so.add.light.url'] = f"{raycast_theme['ray.so.light.url']}&addToRaycast"
+        raycast_theme['ray.so.dark.url'] = f"{theme_url}&appearance=dark"
+        raycast_theme['ray.so.add.dark.url'] = f"{raycast_theme['ray.so.dark.url']}&addToRaycast"
         raycast_monkeytype_theme.append(raycast_theme)
 
     with open('raycast-monkeytype-theme.json', 'w') as f:
