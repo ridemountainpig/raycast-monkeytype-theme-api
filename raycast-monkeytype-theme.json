@@ -2106,12 +2106,12 @@
             "background": "#f8ad34",
             "text": "#333",
             "selection": "#b12189",
-            "loader": "#b12189"
+            "loader": "#0b9399"
         },
-        "ray.so.light.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%23b12189,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
-        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%23b12189,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
-        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%23b12189,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
-        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%23b12189,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%230b9399,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%230b9399,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%230b9399,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Mexican&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23f8ad34,%23f8ad34,%23333,%23b12189,%230b9399,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
         "name": "Husqy",
