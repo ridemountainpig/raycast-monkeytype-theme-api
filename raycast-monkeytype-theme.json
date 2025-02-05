@@ -2504,5 +2504,19 @@
         "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Suisei&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%233b4a62,%233b4a62,%23fe9841,%23bef0ff,%23313e55,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
         "ray.so.dark.url": "https://themes.ray.so?version=1&name=Suisei&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%233b4a62,%233b4a62,%23fe9841,%23bef0ff,%23313e55,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Suisei&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%233b4a62,%233b4a62,%23fe9841,%23bef0ff,%23313e55,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
+        "name": "Github",
+        "appearance": "dark",
+        "colors": {
+            "background": "#212830",
+            "text": "#788386",
+            "selection": "#41ce5c",
+            "loader": "#141b23"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Github&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23212830,%23212830,%23788386,%2341ce5c,%23141b23,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Github&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23212830,%23212830,%23788386,%2341ce5c,%23141b23,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Github&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23212830,%23212830,%23788386,%2341ce5c,%23141b23,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Github&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23212830,%23212830,%23788386,%2341ce5c,%23141b23,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     }
 ]
