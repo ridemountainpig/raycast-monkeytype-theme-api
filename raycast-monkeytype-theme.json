@@ -798,6 +798,20 @@
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Solarized%20Light&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23fdf6e3,%23fdf6e3,%232aa198,%23859900,%23e2d8be,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
+        "name": "Solarized Osaka",
+        "appearance": "dark",
+        "colors": {
+            "background": "#00141a",
+            "text": "#2aa198",
+            "selection": "#859900",
+            "loader": "#00222b"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Solarized%20Osaka&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300141a,%2300141a,%232aa198,%23859900,%2300222b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Solarized%20Osaka&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300141a,%2300141a,%232aa198,%23859900,%2300222b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Solarized%20Osaka&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300141a,%2300141a,%232aa198,%23859900,%2300222b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Solarized%20Osaka&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%2300141a,%2300141a,%232aa198,%23859900,%2300222b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
         "name": "Terra",
         "appearance": "dark",
         "colors": {
