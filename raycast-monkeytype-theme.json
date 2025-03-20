@@ -42,6 +42,20 @@
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Dark&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23111,%23111,%23444,%23eee,%23191919,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
+        "name": "Phantom",
+        "appearance": "dark",
+        "colors": {
+            "background": "#001",
+            "text": "#414868",
+            "selection": "#7aa2f7",
+            "loader": "#24283b"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Phantom&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23001,%23001,%23414868,%237aa2f7,%2324283b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Phantom&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23001,%23001,%23414868,%237aa2f7,%2324283b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Phantom&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23001,%23001,%23414868,%237aa2f7,%2324283b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Phantom&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23001,%23001,%23414868,%237aa2f7,%2324283b,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
         "name": "Muted",
         "appearance": "dark",
         "colors": {
