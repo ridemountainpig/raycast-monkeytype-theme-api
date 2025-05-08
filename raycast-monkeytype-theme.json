@@ -1,5 +1,33 @@
 [
     {
+        "name": "8008",
+        "appearance": "dark",
+        "colors": {
+            "background": "#333a45",
+            "text": "#939eae",
+            "selection": "#f44c7f",
+            "loader": "#2e343d"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
+        "name": "9009",
+        "appearance": "light",
+        "colors": {
+            "background": "#eeebe2",
+            "text": "#99947f",
+            "selection": "#080909",
+            "loader": "#d3cfc1"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
         "name": "Dark Note",
         "appearance": "dark",
         "colors": {
@@ -82,20 +110,6 @@
         "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Dark%20Magic%20Girl&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23091f2c,%23091f2c,%2393e8d3,%23f5b1cc,%23071823,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
         "ray.so.dark.url": "https://themes.ray.so?version=1&name=Dark%20Magic%20Girl&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23091f2c,%23091f2c,%2393e8d3,%23f5b1cc,%23071823,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Dark%20Magic%20Girl&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23091f2c,%23091f2c,%2393e8d3,%23f5b1cc,%23071823,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
-    },
-    {
-        "name": "8008",
-        "appearance": "dark",
-        "colors": {
-            "background": "#333a45",
-            "text": "#939eae",
-            "selection": "#f44c7f",
-            "loader": "#2e343d"
-        },
-        "ray.so.light.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
-        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
-        "ray.so.dark.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
-        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=8008&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23333a45,%23333a45,%23939eae,%23f44c7f,%232e343d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
         "name": "Carbon",
@@ -502,20 +516,6 @@
         "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Botanical&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%237b9c98,%237b9c98,%23495755,%23eaf1f3,%2372908d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
         "ray.so.dark.url": "https://themes.ray.so?version=1&name=Botanical&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%237b9c98,%237b9c98,%23495755,%23eaf1f3,%2372908d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Botanical&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%237b9c98,%237b9c98,%23495755,%23eaf1f3,%2372908d,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
-    },
-    {
-        "name": "9009",
-        "appearance": "light",
-        "colors": {
-            "background": "#eeebe2",
-            "text": "#99947f",
-            "selection": "#080909",
-            "loader": "#d3cfc1"
-        },
-        "ray.so.light.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
-        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
-        "ray.so.dark.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
-        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=9009&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23eeebe2,%23eeebe2,%2399947f,%23080909,%23d3cfc1,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
         "name": "Bingsu",
