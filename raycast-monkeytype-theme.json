@@ -2576,6 +2576,20 @@
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Sunset&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23211e24,%23211e24,%235b578e,%23f79777,%23161319,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     },
     {
+        "name": "Vesper Light",
+        "appearance": "light",
+        "colors": {
+            "background": "#ffffff",
+            "text": "#a0a0a0",
+            "selection": "#fb7100",
+            "loader": "#fff8f4"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Vesper%20Light&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23ffffff,%23ffffff,%23a0a0a0,%23fb7100,%23fff8f4,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Vesper%20Light&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23ffffff,%23ffffff,%23a0a0a0,%23fb7100,%23fff8f4,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Vesper%20Light&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23ffffff,%23ffffff,%23a0a0a0,%23fb7100,%23fff8f4,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Vesper%20Light&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23ffffff,%23ffffff,%23a0a0a0,%23fb7100,%23fff8f4,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
         "name": "Pale Nimbus",
         "appearance": "dark",
         "colors": {
