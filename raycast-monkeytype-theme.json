@@ -2602,5 +2602,19 @@
         "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Pale%20Nimbus&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23433e4c,%23433e4c,%23ffaca3,%2394ffc2,%23694f5e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
         "ray.so.dark.url": "https://themes.ray.so?version=1&name=Pale%20Nimbus&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23433e4c,%23433e4c,%23ffaca3,%2394ffc2,%23694f5e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
         "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Pale%20Nimbus&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%23433e4c,%23433e4c,%23ffaca3,%2394ffc2,%23694f5e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
+    },
+    {
+        "name": "Spiderman",
+        "appearance": "dark",
+        "colors": {
+            "background": "#0d1219",
+            "text": "#0476f2",
+            "selection": "#e23636",
+            "loader": "#0b1c2e"
+        },
+        "ray.so.light.url": "https://themes.ray.so?version=1&name=Spiderman&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%230d1219,%230d1219,%230476f2,%23e23636,%230b1c2e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light",
+        "ray.so.add.light.url": "https://themes.ray.so?version=1&name=Spiderman&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%230d1219,%230d1219,%230476f2,%23e23636,%230b1c2e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=light&addToRaycast",
+        "ray.so.dark.url": "https://themes.ray.so?version=1&name=Spiderman&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%230d1219,%230d1219,%230476f2,%23e23636,%230b1c2e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark",
+        "ray.so.add.dark.url": "https://themes.ray.so?version=1&name=Spiderman&author=Yen%20Cheng&authorUsername=ridemountainpig&colors=%230d1219,%230d1219,%230476f2,%23e23636,%230b1c2e,%23F50A0A,%23F5600A,%23E0A200,%2307BA65,%230A7FF5,%23470AF5,%23F50AA3&appearance=dark&addToRaycast"
     }
 ]
